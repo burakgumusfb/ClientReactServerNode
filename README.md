@@ -12,7 +12,7 @@ Then you will see below message ->
   npm start'
 
 
-5.  C:\folder\folder\folder\ClientReactServerNode\myclient\myapp\src>XCOPY C:\..\..\..\ClientReactServerNode\customclient\customapp\src
+5.  C:\folder\folder\folder\ClientReactServerNode\myclient\myapp\src>XCOPY C:\folder\folder\folder\ClientReactServerNode\customclient\customapp\src
 
 6.  Then 'Overwrite C:\folder\folder\folder\ClientReactServerNode\myclient\myapp\src\App.css (Yes/No/All)?' ALL.
 
