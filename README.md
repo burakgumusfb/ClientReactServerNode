@@ -6,10 +6,12 @@
 4.  C:\folder\folder\folder\ClientReactServerNode\myclient> run "create-react-app myapp" command. 
 
 Then you will see below message ->
-'We suggest that you begin by typing:
 
-  cd myapp
-  npm start'
+    'We suggest that you begin by typing:
+
+    cd myapp
+  
+    npm start'
 
 
 5.  C:\folder\folder\folder\ClientReactServerNode\myclient\myapp\src>XCOPY C:\folder\folder\folder\ClientReactServerNode\customclient\customapp\src
