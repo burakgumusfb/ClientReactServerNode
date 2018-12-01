@@ -1,0 +1,11 @@
+{
+    "name": "client-react-server-node",
+    "description": "build react and node project",
+    "authors": "burak gumus",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.16.4"
+    }
+}
